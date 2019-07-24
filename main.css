@@ -12,7 +12,7 @@
   color: white;
   text-align: center;
   height: 40px;
-  font-family: "Arial";
+  font-family: "Arial", sans-serif;
 }
 
 #check-menu {
